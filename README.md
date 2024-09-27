@@ -15,8 +15,8 @@ This project is a single-page CV, showcasing my skills, education, and work expe
 ## Instructions to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone [REPOSITORY_URL]
-   cd [REPOSITORY_NAME]
+   git clone https://github.com/desireealexia/desireealexia-cv.git
+   cd desireealexia-cv
    
 2. Open the CV Page: Open index.html in your web browser.
 
@@ -26,6 +26,10 @@ You can view the project page live at: [PROJECT_PAGE_URL](https://roadmap.sh/pro
 ## Contact
 For any questions or feedback, feel free to reach out via:
 
-Email: desiree.wf0@gmail.com
-LinkedIn: [Desiree Williams-Forde](https://www.linkedin.com/in/dwilliamsforde/)
+Email: desiree.wf0@gmail.com <br> LinkedIn: [Desiree Williams-Forde](https://www.linkedin.com/in/dwilliamsforde/)
+
+<hr>
+
+Thank you for reviewing my CV!
+
 
