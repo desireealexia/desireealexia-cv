@@ -21,12 +21,13 @@ This project is a single-page CV, showcasing my skills, education, and work expe
 2. Open the CV Page: Open index.html in your web browser.
 
 ## Project Page URL
-You can view the project page live at: [PROJECT_PAGE_URL](https://roadmap.sh/projects/single-page-cv)
+You can view the project page live at: [project URL](https://roadmap.sh/projects/single-page-cv)
 
 ## Contact
 For any questions or feedback, feel free to reach out via:
 
-Email: desiree.wf0@gmail.com <br> LinkedIn: [Desiree Williams-Forde](https://www.linkedin.com/in/dwilliamsforde/)
+- Email: desiree.wf0@gmail.com
+- LinkedIn: [Desiree Williams-Forde](https://www.linkedin.com/in/dwilliamsforde/)
 
 <hr>
 
